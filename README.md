@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding-with-fun" width="400" src=![image](https://github.com/SumitKumar777/SumitKumar777/assets/120464532/fc41a0ef-55bd-48e5-b9db-cfab1f27ed35)>
+<img align="right" alt="coding-with-fun" width="400" src= "https://user-images.githubusercontent...">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitkumar777&label=Profile%20views&color=0e75b6&style=flat" alt="sumitkumar777" /> </p>
