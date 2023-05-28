@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding-with-fun" width="400" src="![image](https://github.com/SumitKumar777/SumitKumar777/assets/120464532/19be4583-2b93-4014-a55d-ca5bd78958f1)"
+<img align="right" alt="coding-with-fun" width="400" src=![image](https://github.com/SumitKumar777/SumitKumar777/assets/120464532/fc41a0ef-55bd-48e5-b9db-cfab1f27ed35)>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitkumar777&label=Profile%20views&color=0e75b6&style=flat" alt="sumitkumar777" /> </p>
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sumitkumarptk826@gmail.com**
 
-- ⚡ Fun fact **I Love sleep so much that one time i slept on monday and woke up on wednessday 😅**
+- ⚡ Fun fact **I Love sleep so much that one time i slept on monday and woke up on wednesday 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
