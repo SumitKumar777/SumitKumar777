@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sumitkumarptk826@gmail.com**
 
-- ⚡ Fun fact **I Love sleep so much that one time i slept on monday and woke up on wednesday 😅**
+- ⚡ Fun fact **I Love to sleep so much that one time i slept on monday and woke up on wednesday 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
