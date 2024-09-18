@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitkumar777&label=Profile%20views&color=0e75b6&style=flat" alt="sumitkumar777" /> </p>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently Student Studing in ** S.R.P.A Adarsh Bhartiya College, Pathankot**
 
-- 💬 Ask me about **HTML CSS**
+- 💬 Aspiring **Software Engineer**
 
 - 📫 How to reach me **sumitkumarptk826@gmail.com**
 
