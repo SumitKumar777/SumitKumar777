@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently Student Studing in ** S.R.P.A Adarsh Bhartiya College, Pathankot**
 
-- 💬 Aspiring **Software Engineer**
-
 - 📫 How to reach me **sumitkumarptk826@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
