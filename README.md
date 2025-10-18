@@ -1,6 +1,6 @@
 <div align="center" style="font-family: Arial, sans-serif; line-height: 1.6;">
 
-  <h2>👋 Hi, I’m a <span style="color:#4cafef;"> creator</span></h2>
+  <h2>👋 Hi, I’m a <span style="color:#4cafef;"> Web Dev
   <p><em> Currently learning & building with code</em></p>
 
   <p>💻 Exploring <strong>web development</strong> step by step.</p>
