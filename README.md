@@ -1,11 +1,25 @@
-<div align="center" style="font-family: Arial, sans-serif; line-height: 1.6;">
+<h1 align="center">Hi 👋, I'm Sumit</h1>
+<h3 align="center">Passionate Full-stackDeveloper from India.I am in 2 year(3 sem) of college pursuing degree in computer science.Actively learning DevOps and exploring Web3, with a strong drive to continuously learn and build new skills</h3>
 
-  <h2>👋 Hi, I’m a <span style="color:#4cafef;"> Web Dev
-  <p><em> Currently learning & building with code</em></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitkumar777&label=Profile%20views&color=0e75b6&style=flat" alt="sumitkumar777" /> </p>
 
-  <p>💻 Exploring <strong>web development</strong> step by step.</p>
-  <p>🌱 Always curious about how things work under the hood.</p>
-  <p>📚 Currently diving deeper into <span style="color:#f39c12;">JavaScript</span>, 
-     <span style="color:#61dbfb;">TypeScript</span>, and <strong>backend concepts</strong>.</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumitkumar777" alt="sumitkumar777" /></a> </p>
 
-</div>
+- 🌱 I’m currently learning **Focused on DevOps, specifically cloud deployment platforms such as AWS and Azure**
+
+- 📫 How to reach me **SUMITKUMARPTK826@GMAIL.COM**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.leetcode.com/sumitkumarptk826" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sumitkumarptk826" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/145001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="145001" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumitkumar777&show_icons=true&locale=en&layout=compact" alt="sumitkumar777" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumitkumar777&show_icons=true&locale=en" alt="sumitkumar777" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitkumar777&" alt="sumitkumar777" /></p>
