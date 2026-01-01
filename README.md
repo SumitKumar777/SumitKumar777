@@ -2,7 +2,7 @@
 
 <h3 align="center">
 Full-stack developer from India focused on building scalable web applications.
-Currently pursuing a Computer Science degree and actively deepening expertise in
+Second year Student pursuing a Computer Science degree and actively deepening expertise in
 DevOps, cloud deployments (AWS, Azure), and modern backend systems.
 </h3>
 
