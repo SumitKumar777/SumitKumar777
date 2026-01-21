@@ -3,7 +3,7 @@
 <h3 align="center">
 Full-stack developer from India focused on building scalable web applications.
 Second year Student pursuing a Computer Science degree and actively deepening expertise in
-DevOps, cloud deployments (AWS, Azure), and modern backend systems.
+DevOps, cloud deployments , and modern backend systems.
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitkumar777&label=Profile%20views&color=0e75b6&style=flat" alt="sumitkumar777" /> </p>
@@ -12,7 +12,7 @@ DevOps, cloud deployments (AWS, Azure), and modern backend systems.
 
 - 🌱 I’m currently learning **Focused on DevOps, specifically cloud deployment platforms such as AWS and Azure**
 
-- 📫 How to reach me **SUMITKUMARPTK826@GMAIL.COM**
+- 📫 How to reach me **sumitkumarptk826@GMAIL.COM**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
